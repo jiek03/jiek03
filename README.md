@@ -1,8 +1,8 @@
 # Hi, my name is Javier Pérez 👋
 ### Industrial Physics Engineer 
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiek03&theme=radical)](https://github.com/jiek03/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiek03&theme=radical)](https://github.com/jiek03/github-readme-stats)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiek03&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiek03&theme=radical)
 
 - 📊 I’m currently studying a MSc. in Applied Artificial Intelligence
 - 🚀 I’m interested in Data Science, Machine Learning, and Statistical Analysis.
