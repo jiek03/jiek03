@@ -60,7 +60,7 @@
 
 <p align="center">
 <a href="https://github.com/jiek03">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiek03&show_icons=true&theme=omni&include_all_commits=true&count_private=true&cache_bust=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiek03&show_icons=true&theme=omni&include_all_commits=true&count_private=true&cache_seconds=3600"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiek03&layout=compact&langs_count=8&theme=omni"/>
 </a>
 </p>
